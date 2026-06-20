@@ -108,6 +108,7 @@
 - [S2OPC](https://gitlab.com/systerel/S2OPC) - Open-source OPC-UA Toolkit designed with security and embedded devices in mind.
 - [libcsp](https://github.com/libcsp/libcsp) - A small network-layer delivery protocol designed for Cubesats.
 - [requests](https://github.com/walidbadar/requests) - A simple interface to perform common HTTP operations.
+- [Xaloqi EDS](https://github.com/Xaloqi/EDS) - ISO 14229 (UDS) diagnostics stack with ISO-TP and DoIP transports, ASIL-B safety wrappers, and YAML-driven code generation for CAN-capable boards.
 
 ### Security
 
